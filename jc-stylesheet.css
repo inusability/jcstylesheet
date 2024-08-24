@@ -1,5 +1,5 @@
 /* Primary Color */
---primary-color: #efc564;
+--primary-color: #efc564; !important
 
 /* Global Styles */
 body {
